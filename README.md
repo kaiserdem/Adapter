@@ -30,7 +30,7 @@
 
 ## Основная функциональность
 * Приложение реализует шаблон `Адаптер(Adapter)`
-* Посмотреть как используют шаблон [Смотрите здесь](https://refactoring.guru/ru/design-patterns/adapter)
+* Больше о шаблоне [Смотрите здесь](https://refactoring.guru/ru/design-patterns/adapter)
 
 
 
